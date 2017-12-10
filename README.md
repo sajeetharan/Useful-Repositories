@@ -92,3 +92,6 @@ Manually curated collection of some useful repositories
 
 ## Angular-CLI
 * [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
+
+## Angular-Material 
+* [Angular-Material](https://material.angular.io/) Material Design components for Angular
